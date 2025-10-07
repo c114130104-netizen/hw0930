@@ -20,5 +20,7 @@
 
 - `git branch` 列出所有版本
 - `git branch v1` =>將目前的REPO新增一個版本v1
-- `git checkout v1` 切換版本
-- `git checkout main` 切換主版本main
+- `git branch -d 名稱` =>刪除版本
+- `git branch -舊名稱 新名稱` 版本改名
+- `git checkout v1` 切換版本v1
+- `git checkout main` 切換到主版本main
